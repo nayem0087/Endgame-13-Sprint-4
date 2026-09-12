@@ -1,13 +1,13 @@
-# Endgame-13 - Sprint 3 (Problem Solving)
+# Endgame-13 - Sprint 4 (Problem Solving)
 
 ## 👨‍💻 Author
 **Nayem Ahmmed** — *MERN-Stack Web Developer*
 
 ## 📝 Overview
-This repository contains JavaScript implementations and test cases for data structures and algorithmic problems solved as part of **Endgame-13 Sprint 3**.
+This repository contains JavaScript implementations and test cases for data structures and algorithmic problems solved as part of **Endgame-13 Sprint 4**.
 
 ## 📁 Project Structure
-`EG-13_Sprint-3_PS.js` — Contains all core algorithm implementations and test cases.
+`EG-13_Sprint-4_PS.js` — Contains all core algorithm implementations and test cases.
 
 ## 🛠️ Implemented Functions
 
@@ -27,4 +27,4 @@ This repository contains JavaScript implementations and test cases for data stru
 1. Make sure you have **Node.js** installed on your system.
 2. Run the script using your terminal:
    ```bash
-   node EG-13_Sprint-3_PS.js
+   node EG-13_Sprint-4_PS.js
